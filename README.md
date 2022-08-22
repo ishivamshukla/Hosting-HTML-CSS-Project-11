@@ -4,7 +4,7 @@
 
 <br/>
 
-![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-Yes-green)
 [![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
 ![Time](https://img.shields.io/badge/Time%20Taken-2hrs-green)
 
